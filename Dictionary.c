@@ -69,6 +69,7 @@ void main(void){
     numberofwords = numberOfWordsInDict(dict);
     printf("Number of words: %d\n", numberofwords);
     addWord(dict, numberofwords);
+    print("Hello");
     //Printword(dict);
     //printf("%p\n", &dict[1]);
     
